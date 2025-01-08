@@ -45,3 +45,5 @@ def load_data(path: str):
     frames = load_video(video_path) 
     alignments = load_alignments(alignment_path)
     return frames,alignments
+
+    

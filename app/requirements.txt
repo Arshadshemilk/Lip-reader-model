@@ -1,6 +1,6 @@
 imageio
 numpy
-opencv-python
+opencv-python-headless
 streamlit
 tensorflow
 ffmpeg-python
